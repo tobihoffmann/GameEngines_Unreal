@@ -12,3 +12,13 @@ Tobias Hoffmann
 Ben Naujoks Roldan
 Karl Buklewski
 Jakob Heschl
+
+# Storyline
+
+- Spieler wacht in Raum auf und ist eingesperrt  
+- Rätsel 1  versteckte tür? Schlüssel steckt? Lüftungsschacht? 4 Hebel?  
+- Haus erkunden, aber es ist dunkel (Taschenlampe?)  
+- Rätsel 2 Sicherungskasten finden für Deckenventilator (neue Sicherung für stromkasten)  
+- Rätsel 3 Haus entkommen (Tresorcode finden?)  
+- Rätsel 4 Gartenhütte (Vorhängeschloss) (Bolzenschneider)  
+- Auto reparieren/ aufschließen  
