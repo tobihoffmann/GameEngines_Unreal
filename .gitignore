@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Unreal Template Files
 Content/StarterContent/*
+
+# Assets
+# Unreal Template Files
+Content/Assets/*
